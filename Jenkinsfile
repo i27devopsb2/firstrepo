@@ -1,1 +1,3 @@
 // jenkinsfile
+pipeline {
+}
